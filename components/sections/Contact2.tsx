@@ -10,7 +10,7 @@ export default function Contact2() {
 						<div className="col-lg-7 pb-5 pb-lg-0">
 							<div className="position-relative">
 								<div className="position-relative z-2">
-									<h3 className="text-primary-2 mb-3">Let’s connect</h3>
+									<h3 className="text-primary-2 mb-3">Let&apos;s connect</h3>
 									<form action="#">
 										<div className="row g-3">
 											<div className="col-md-6 ">
@@ -49,7 +49,7 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Phone Number</span>
-									<h6 className="mb-0">+1-234-567-8901</h6>
+									<h6 className="mb-0">+92-307-713-6555</h6>
 								</div>
 								<a href="tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -61,7 +61,7 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Email</span>
-									<h6 className="mb-0">contact@william.design</h6>
+									<h6 className="mb-0">dev.burairahmed@gmail.com</h6>
 								</div>
 								<a href="mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -73,7 +73,7 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Skype</span>
-									<h6 className="mb-0">WilliamDesignUX</h6>
+									<h6 className="mb-0">Burair Ahmed</h6>
 								</div>
 								<a href="skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -85,7 +85,7 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Address</span>
-									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
+									<h6 className="mb-0">Karachi, Pakistan</h6>
 								</div>
 								<a href="https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
