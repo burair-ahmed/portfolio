@@ -25,7 +25,7 @@ export default function Home2() {
 											&lt;span&gt;
 											<div className="text-dark">
 												<div className="typewriter">
-													<h1 className="fs-6 fw-medium">Hey, I’m Burair Ahmed</h1>
+													<h1 className="fs-6 fw-medium">Hey, I&apos;m Burair Ahmed</h1>
 												</div>
 											</div>
 											&lt;/span&gt;
