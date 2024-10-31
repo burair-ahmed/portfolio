@@ -102,25 +102,25 @@ export default function Skills2() {
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Front-End:</p>
-																	<span className="text-300">HTML, CSS, JavaScript, React, Angular</span>
+																	<span className="text-300">HTML, CSS, JavaScript, React, NextJS</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Back-End:</p>
-																	<span className="text-300">Node.js, Express, Python, Django</span>
+																	<span className="text-300">Node.js, Express, Python</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Databases:</p>
-																	<span className="text-300">MySQL, PostgreSQL, MongoDB</span>
+																	<span className="text-300">MySQL, MongoDB, FireBase</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Tools &amp; Platforms:</p>
-																	<span className="text-300">Git, Docker, AWS, Heroku</span>
+																	<p className="text-dark text-nowrap mb-0">CMS:</p>
+																	<span className="text-300">WordPress, Shopify, Webflow</span>
 																</div>
 															</li>
 															<li className="mb-3">
